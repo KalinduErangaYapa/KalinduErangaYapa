@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **BEng Software Engineering at University of Westminster**
 
-- 💬 Ask me about **Java,Python,HTML**
+- 💬 Ask me about **PHP,React,Java,HTML**
 
 - 📫 How to reach me **kalinduyapa@gmail.com**
 
